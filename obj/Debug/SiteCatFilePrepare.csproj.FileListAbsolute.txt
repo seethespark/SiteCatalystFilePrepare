@@ -1,0 +1,6 @@
+E:\Dropbox\Projects\DotNet\RemoveCommasAndQuotes\bin\Debug\SiteCatFilePrepare.exe.config
+E:\Dropbox\Projects\DotNet\RemoveCommasAndQuotes\bin\Debug\SiteCatFilePrepare.exe
+E:\Dropbox\Projects\DotNet\RemoveCommasAndQuotes\bin\Debug\SiteCatFilePrepare.pdb
+E:\Dropbox\Projects\DotNet\RemoveCommasAndQuotes\obj\Debug\SiteCatFilePrepare.exe
+E:\Dropbox\Projects\DotNet\RemoveCommasAndQuotes\obj\Debug\SiteCatFilePrepare.pdb
+E:\Dropbox\Projects\DotNet\RemoveCommasAndQuotes\obj\Debug\SiteCatFilePrepare.csprojResolveAssemblyReference.cache
